@@ -10,4 +10,5 @@ def toadstool
 end
 
 def link 
-  status = ""
+  phrase = "It's dangerous to go alone! Take this."
+  puts phrase
